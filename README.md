@@ -1,11 +1,7 @@
 ### Hi everyone! i'm Caio Cesar F
 
-- 🌱 I’m currently learning Python, SQL, Django, Docker ...
+- 🧑‍💻 I’m currently learning Python, SQL, Django, Docker ...
 -  Open to work and collaborate.
-
-
-
-
 
 
 
